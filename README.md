@@ -197,3 +197,14 @@ For protected API endpoints, include the token in the Authorization header:
 ```makefile
 Authorization: Bearer <your_access_token>
 ```
+
+### Screenshots
+<hr>
+<img src="https://github.com/user-attachments/assets/d0593ef8-5811-4878-9eb9-fd49144898ea" alt="Image 1" width="1000" height="350">
+
+<img src="https://github.com/user-attachments/assets/e16f79f1-152b-40fe-b1e5-0d0fba367c33" alt="Image 2" width="500" height="500">
+
+<img src="https://github.com/user-attachments/assets/56db532a-86fa-4c27-9b47-0ebed7c358ee" alt="Image 3" width="500" height="500">
+
+<img src="https://github.com/user-attachments/assets/79e65fde-62eb-4e3a-8f61-d9cf46a7209d" alt="Image 4" width="600" height="600">
+
